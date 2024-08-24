@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Göktuğ Sülün</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React**, **Typescript**
 
-- 🌱 I’m currently learning **Typescript**, **Next.js**, **Node.js**, **Express.js**
+- 🌱 I’m currently learning **Next.js**, **Node.js**, **Express.js**
 
 - 📫 How to reach me **goktug.sulun@hotmail.com**
 
