@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Göktuğ Sülün</h1>
-<h3 align="center">A passionate software enginner - frontend from Türkiye</h3>
+<h3 align="center">A passionate Software Engineer - Frontend from Türkiye</h3>
 
 - 🔭 I’m currently working on **React**, **Typescript**
 
@@ -9,11 +9,11 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-&nbsp;&nbsp;In 2024, I graduated from Bahçeşehir University with a full scholarship, completing a program taught entirely in English. During my studies, I gained valuable experience working as a frontend developer, actively contributing to software projects for companies like Çimsa, Borusan, and Kopaş. Additionally, I participated in the Work and Travel program, spending three months in the United States, where I had the opportunity to improve my language skills and deepen my cultural understanding.
+&nbsp;&nbsp; In 2024, I graduated from Bahçeşehir University with a full scholarship, completing a program taught entirely in English. During my studies, I gained valuable experience working as a frontend developer, actively contributing to software projects for companies like Çimsa, Borusan, and Kopaş. Additionally, I participated in the Work and Travel program, spending three months in the United States, where I had the opportunity to improve my language skills and deepen my cultural understanding.
 
-&nbsp;&nbsp;Currently, I am part of the Payment Systems - Card Applications team at Fibabanka, where I develop screens for Branch and Call Center operations. My work involves utilizing React.js, Redux, Redux Toolkit, RTK Query, Redux Thunk, and other related technologies.
+&nbsp;&nbsp; Currently, I am part of the Payment Systems - Card Applications team at Fibabanka, where I develop screens for Branch and Call Center operations. My work involves utilizing React.js, Redux, Redux Toolkit, RTK Query, Redux Thunk, and other related technologies.
 
-&nbsp;&nbsp;Although I specialize in frontend development, my role also requires me to review SQL, ASP.NET Core, and Java applications and services. In addition to my professional work, I am continuously enhancing my backend development skills by working on side projects using Node.js, Express, and MongoDB.
+&nbsp;&nbsp; Although I specialize in frontend development, my role also requires me to review SQL, ASP.NET Core, and Java applications and services. In addition to my professional work, I am continuously enhancing my backend development skills by working on side projects using Node.js, Express, and MongoDB.
 </p>
 
 <h3 align="left">Connect with me:</h3>
