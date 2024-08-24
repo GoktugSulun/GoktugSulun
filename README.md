@@ -9,7 +9,11 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-&nbsp;&nbsp;Since I started university, I have become interested in the web development, especially the frontend, and started to improve myself. After improving myself in HTML, CSS and Javascript and developing various projects, I started my internship program. During my internship, I learned React.js and after the projects I developed to improve myself, I took part in various company projects. At the end of six months, I actively took part full time in company projects for more than one year. I increased my knowledge and experience in the frontend field by using various packages (redux-toolkit, react-router, axios, material-ui, redux-thunk, redux-saga, nivo, react-hook-form) along with React.js. In the summer of 2023, I participated in work & travel program and spent three months in America to enhance my English skills and explore different cultures.
+&nbsp;&nbsp;In 2024, I graduated from Bahçeşehir University with a full scholarship, completing a program taught entirely in English. During my studies, I gained valuable experience working as a frontend developer, actively contributing to software projects for companies like Çimsa, Borusan, and Kopaş. Additionally, I participated in the Work and Travel program, spending three months in the United States, where I had the opportunity to improve my language skills and deepen my cultural understanding.
+
+&nbsp;&nbsp;Currently, I am part of the Payment Systems - Card Applications team at Fibabanka, where I develop screens for Branch and Call Center operations. My work involves utilizing React.js, Redux, Redux Toolkit, RTK Query, Redux Thunk, and other related technologies.
+
+&nbsp;&nbsp;Although I specialize in frontend development, my role also requires me to review SQL, ASP.NET Core, and Java applications and services. In addition to my professional work, I am continuously enhancing my backend development skills by working on side projects using Node.js, Express, and MongoDB.
 </p>
 
 <h3 align="left">Connect with me:</h3>
